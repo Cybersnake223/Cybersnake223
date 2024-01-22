@@ -4,6 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Hello+There!+I'm+Cybersnake+" />
 </h3>
 
+---
+- 🔭 I'm a Linux Enthusiast who likes to play around with Computers and stuff.
+- 🌱 I’m currently in college and learning how to code properly while trying to be completely sane during the process 😂
+---
+
 [![Cybersnake223's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cybersnake223&show_icons=true&count_private=true&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cybersnake223&layout=compact&hide=Shell&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
