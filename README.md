@@ -7,7 +7,8 @@
 
 ---
 - 🔭 I'm a Linux Enthusiast who likes to play around with Computers and stuff.
-- 🌱 I’m currently in college and learning how to code properly while trying to be completely sane during the process 😂
+- 🌱 I’m currently in college and learning how to code properly while trying to be completely sane during the process. 😂
+- 👀 Also do Ricing for fun. 😁😁
 ---
 [![Cybersnake223's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cybersnake223&show_icons=true&count_private=true&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
 
