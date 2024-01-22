@@ -9,6 +9,6 @@
 - 🌱 I’m currently in college and learning how to code properly while trying to be completely sane during the process 😂
 ---
 
-[![Cybersnake223's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cybersnake223&show_icons=true&count_private=true&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+[GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cybersnake223&theme=holi)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cybersnake223&layout=compact&hide=Shell&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
