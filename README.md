@@ -10,8 +10,8 @@
 - 🌱 I’m currently in college and learning how to code properly while trying to be completely sane during the process. 😂
 - 👀 Also do Ricing for fun. 😁😁
 ---
-[![Cybersnake223's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cybersnake223&show_icons=true&count_private=true&theme=holi)
+[Cybersnake223's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cybersnake223&show_icons=true&count_private=true&theme=holi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cybersnake223&layout=compact&hide=Shell&theme=holi)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cybersnake223&layout=compact&hide=Shell&theme=holi)
 
-[![Cybersnakes github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cybersnake223&theme=react-dark)
+[Cybersnakes github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cybersnake223&theme=react-dark)
