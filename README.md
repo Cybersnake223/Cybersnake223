@@ -7,7 +7,7 @@
 
 ---
 - 🔭 I'm a Linux Enthusiast who likes to play around with Computers and stuff.
-- 🌱 I’m currently in college and learning how to code properly while trying to be completely sane during the process. 😂
+- 🌱 I’m currently in college (Ik it sucks) and learning how to code properly while trying to be completely sane during the process. 😂
 - 🤖 Casually Scripting for fun. 
 - 👀 Also do Ricing for fun. 😁😁  
 ---
