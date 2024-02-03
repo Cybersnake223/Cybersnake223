@@ -17,18 +17,15 @@
 ![Cybersnakes github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cybersnake223&theme=react-dark)
 
 
-<h3>EDITOR</h3>
-<p>
-  <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
-</p>
-
 ```
 
 💻 Operating System: 
-    Cybersnake Customs (I use Arch BTW!!!)
+    Cybersnake Customs ( I use Arch BTW!!! )
 
 🪟 Window Manager:
-    Vicious Viper (Hyprland)
+    Vicious Viper ( Hyprland )
 
+📝 Editor:
+    Neovim ( Anyday Everyday FOREVER )
 
 ```  
