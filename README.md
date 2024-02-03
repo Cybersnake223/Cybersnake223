@@ -12,13 +12,9 @@
 - 👀 Also do Ricing for fun. 😁😁  
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cybersnake223&hide_progress=true&theme-holi)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cybersnake223&layout=compact&hide=Shell&theme=holi)
 
-
-![Cybersnake's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cybersnake223&show_icons=true&bg_color=00000000)
-
-
-![Cybersnake's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cybersnake223&theme=react-dark)
+![Cybersnakes Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cybersnake223&theme=react-dark)
 
 
 ```
