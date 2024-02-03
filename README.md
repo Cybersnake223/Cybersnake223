@@ -24,6 +24,6 @@
 
 ```
 💻 Operating System: 
-Linux (I use Arch BTW!!!)
+    Linux (I use Arch BTW!!!)
 ```  
 
