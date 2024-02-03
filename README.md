@@ -23,7 +23,12 @@
 </p>
 
 ```
-💻 Operating System: 
-    Linux (I use Arch BTW!!!)
-```  
 
+💻 Operating System: 
+    Cybersnake Customs (I use Arch BTW!!!)
+
+🪟 Window Manager:
+    Vicious Viper (Hyprland)
+
+
+```  
