@@ -22,4 +22,8 @@
   <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
 </p>
 
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C295%20hrs%2051%20mins-blue)
+```
+💻 Operating System: 
+Linux (I use Arch BTW!!!)
+```  
+
