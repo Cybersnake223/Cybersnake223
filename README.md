@@ -18,7 +18,6 @@
 
 
 ```
-
 💻 Operating System: 
     Cybersnake Customs ( I use Arch BTW!!! )
 
