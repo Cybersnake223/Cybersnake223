@@ -2,7 +2,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=75&center=true&vCenter=true&width=2000&height=100&duration=3500&lines=Supp+Fellas!+I'm+Cybersnake+"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=75&center=true&vCenter=true&width=2000&height=100&duration=3500&pause=1500&lines=Supp+Fellas!+I'm+Cybersnake+"/>
 </h3>
 
 ---
