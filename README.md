@@ -19,12 +19,15 @@
 
 ```
 💻 Operating System: 
-    Cybersnake Customs ( I use Arch BTW!!! )
+    Arch
 
 🪟 Window Manager:
-    Vicious Viper ( Hyprland )
+    Hyprland
 
 📝 Editor:
     Neovim ( Anyday Everyday FOREVER )
+
+📂 File Manager:
+    Yazi, Thunar
 
 ```  
