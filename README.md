@@ -12,9 +12,6 @@
 - 👀 Also do Ricing for fun. 😁😁  
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cybersnake223)](https://github.com/Cybersnake223)
-
-
 ![Cybersnakes Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cybersnake223&theme=react-dark)
 
 
