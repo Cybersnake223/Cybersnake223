@@ -1,31 +1,75 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Cybersnake223&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="Cybersnake223" />
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Cybersnake223&label=Profile%20views&color=A024F7&style=flat" alt="Cybersnake223" />
 </p>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=75&center=true&vCenter=true&width=2000&height=100&duration=3500&pause=1500&lines=Supp+Fellas!+I'm+Cybersnake+"/>
-</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=75&center=true&vCenter=true&width=2000&height=100&duration=3500&pause=1500&lines=Supp+Fellas!+I'm+Cybersnake;Linux+Enjoyer+%F0%9F%90%A7;Arch+%2B+Hyprland+%F0%9F%AA%9F;Rice+or+Die+%F0%9F%8D%9A" />
+</div>
 
 ---
-- 🔭 I'm a Linux Enthusiast who likes to play around with Computers and stuff.
-- 🌱 I’m currently in college (Ik it sucks) and learning how to code properly while trying to be completely sane during the process. 😂
-- 🤖 Casually Scripting for fun. 
-- 👀 Also do Ricing for fun. 😁😁  
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cybersnake223&layout=compact&theme=tokyonight&hide_border=true&title_color=A024F7&text_color=ffffff&bg_color=00000000" width="38%"/>
+
+### whoami
+
+- 🐧 Linux enthusiast — daily driving **Arch + Hyprland**
+- 🎓 Currently in college, learning to code while staying (mostly) sane 😂
+- 🤖 Casual scripter — automating things that probably didn't need automating
+- 🍚 Ricer for fun — if it doesn't look good, why does it exist
+- 🎮 Esports enjoyer — CoD Mobile
+
+<br>
+
+### what i'm up to
+
+- 🔨 Maintaining **[Hypr](https://github.com/Cybersnake223/Hypr)** — my Hyprland dotfiles
+- 🌱 Learning full-stack web dev + leveling up my scripting
+- 🔭 Always looking for an excuse to rice something new
+
+<br>
+
+### open to
+
+- 💬 Hyprland / Arch / dotfiles questions
+- 🐛 Issues and PRs on [Hypr](https://github.com/Cybersnake223/Hypr)
+- 🤝 Scripting ideas and collabs
+
 ---
 
-![Cybersnakes Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cybersnake223&theme=react-dark)
-
+### setup
 
 ```
-💻 Operating System: 
-    Arch
+💻 OS          Arch Linux
+🪟  WM          Hyprland
+📝 Editor      Neovim  ( Anyday Everyday FOREVER )
+🌷 Terminal    Foot
+🍄 Shell       Zsh
+📂 Files       Yazi  +  Thunar
+🌐 Browser     Zen Browser
+🎨 Theme       Dynamic via Matugen (wallpaper-based)
+```
 
-🪟 Window Manager:
-    Hyprland
+---
 
-📝 Editor:
-    Neovim ( Anyday Everyday FOREVER )
+### activity
 
-📂 File Manager:
-    Yazi, Thunar
+![Cybersnake's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cybersnake223&theme=react-dark&color=A024F7&line=A024F7&point=ffffff&hide_border=true)
 
-```  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cybersnake223&show_icons=true&theme=tokyonight&hide_border=true&title_color=A024F7&icon_color=A024F7&text_color=ffffff&bg_color=00000000" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Cybersnake223&theme=tokyonight&hide_border=true&ring=A024F7&fire=A024F7&currStreakLabel=A024F7" width="48%" />
+</div>
+
+---
+
+### featured
+
+<div align="center">
+
+[![Hypr](https://github-readme-stats.vercel.app/api/pin/?username=Cybersnake223&repo=Hypr&theme=tokyonight&hide_border=true&title_color=A024F7&icon_color=A024F7&text_color=ffffff&bg_color=00000000)](https://github.com/Cybersnake223/Hypr)
+
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.png"/>
+</div>
