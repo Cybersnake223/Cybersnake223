@@ -8,15 +8,15 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cybersnake223&layout=compact&theme=tokyonight&hide_border=true&title_color=A024F7&text_color=ffffff&bg_color=00000000" width="38%"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cybersnake223&layout=compact&theme=tokyonight&hide_border=true&title_color=A024F7&text_color=ffffff&bg_color=00000000&langs_count=6" width="38%"/>
 
 ### whoami
 
 - 🐧 Linux enthusiast — daily driving **Arch + Hyprland**
 - 🎓 Currently in college, learning to code while staying (mostly) sane 😂
-- 🤖 Casual scripter — automating things that probably didn't need automating
+- 🤖 Casual scripter
 - 🍚 Ricer for fun — if it doesn't look good, why does it exist
-- 🎮 Esports enjoyer — CoD Mobile
+- 🎮 Esports enjoyer
 
 <br>
 
@@ -57,7 +57,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cybersnake223&show_icons=true&theme=tokyonight&hide_border=true&title_color=A024F7&icon_color=A024F7&text_color=ffffff&bg_color=00000000" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Cybersnake223&theme=tokyonight&hide_border=true&ring=A024F7&fire=A024F7&currStreakLabel=A024F7" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Cybersnake223&theme=tokyonight&hide_border=true&ring=A024F7&fire=A024F7&currStreakLabel=A024F7" width="48%" />
 </div>
 
 ---
