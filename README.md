@@ -8,8 +8,6 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cybersnake223&layout=compact&theme=tokyonight&hide_border=true&title_color=A024F7&text_color=ffffff&bg_color=00000000&langs_count=6" width="38%"/>
-
 ### whoami
 
 - 🐧 Linux enthusiast — daily driving **Arch + Hyprland**
@@ -40,7 +38,7 @@
 
 ```
 💻 OS          Arch Linux
-🪟  WM          Hyprland
+🪟 WM          Hyprland
 📝 Editor      Neovim  ( Anyday Everyday FOREVER )
 🌷 Terminal    Foot
 🍄 Shell       Zsh
@@ -54,22 +52,3 @@
 ### activity
 
 ![Cybersnake's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cybersnake223&theme=react-dark&color=A024F7&line=A024F7&point=ffffff&hide_border=true)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cybersnake223&show_icons=true&theme=tokyonight&hide_border=true&title_color=A024F7&icon_color=A024F7&text_color=ffffff&bg_color=00000000" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Cybersnake223&theme=tokyonight&hide_border=true&ring=A024F7&fire=A024F7&currStreakLabel=A024F7" width="48%" />
-</div>
-
----
-
-### featured
-
-<div align="center">
-
-[![Hypr](https://github-readme-stats.vercel.app/api/pin/?username=Cybersnake223&repo=Hypr&theme=tokyonight&hide_border=true&title_color=A024F7&icon_color=A024F7&text_color=ffffff&bg_color=00000000)](https://github.com/Cybersnake223/Hypr)
-
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.png"/>
-</div>
