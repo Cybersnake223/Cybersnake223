@@ -106,7 +106,3 @@
 ![Cybersnake's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cybersnake223&theme=react-dark&color=A024F7&line=A024F7&point=ffffff&hide_border=true)
 
 ---
-
-<div align="center">
-  <i>「 Rice or Die 🍚 」</i>
-</div>
