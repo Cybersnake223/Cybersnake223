@@ -6,6 +6,13 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=75&center=true&vCenter=true&width=2000&height=100&duration=3500&pause=1500&lines=Supp+Fellas!+I'm+Cybersnake;Linux+Enjoyer+%F0%9F%90%A7;Arch+%2B+Hyprland+%F0%9F%AA%9F;Rice+or+Die+%F0%9F%8D%9A" />
 </div>
 
+<div align="center">
+
+[![Website](https://img.shields.io/badge/🌐%20cybersnake223.github.io-A024F7?style=for-the-badge&logoColor=white)](https://cybersnake223.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-Cybersnake223-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cybersnake223)
+
+</div>
+
 ---
 
 ### whoami
@@ -13,7 +20,7 @@
 - 🐧 Linux enthusiast — daily driving **Arch + Hyprland**
 - 🎓 Currently in college, learning to code while staying (mostly) sane 😂
 - 🤖 Casual scripter
-- 🍚 Ricer for fun — if it doesn't look good, why does it exist
+- 🍚 Ricer for fun — if it doesn't look good, why does it exist?
 - 🎮 Esports enjoyer
 
 <br>
@@ -29,14 +36,14 @@
 ### open to
 
 - 💬 Hyprland / Arch / dotfiles questions
-- 🐛 Issues and PRs on [Hypr](https://github.com/Cybersnake223/Hypr)
+- 🐛 Issues and PRs on **[Hypr](https://github.com/Cybersnake223/Hypr)**
 - 🤝 Scripting ideas and collabs
 
 ---
 
 ### setup
 
-```
+```text
 💻 OS          Arch Linux
 🪟 WM          Hyprland
 📝 Editor      Neovim  ( Anyday Everyday FOREVER )
@@ -49,6 +56,57 @@
 
 ---
 
+### languages & tools
+
+<div align="center">
+
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+</div>
+
+<div align="center">
+
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=hyprland&logoColor=black)
+
+</div>
+
+---
+
+### stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cybersnake223&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A024F7&icon_color=A024F7&text_color=94a3b8&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cybersnake223&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A024F7&text_color=94a3b8&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Cybersnake223&theme=tokyonight-duo&hide_border=true&background=00000000&ring=A024F7&fire=ec4899&currStreakLabel=A024F7" />
+
+</div>
+
+---
+
 ### activity
 
 ![Cybersnake's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cybersnake223&theme=react-dark&color=A024F7&line=A024F7&point=ffffff&hide_border=true)
+
+---
+
+<div align="center">
+  <i>「 Rice or Die 🍚 」</i>
+</div>
