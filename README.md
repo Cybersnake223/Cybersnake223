@@ -86,12 +86,12 @@
 
 ### stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cybersnake223&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A024F7&icon_color=A024F7&text_color=94a3b8&rank_icon=github" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cybersnake223&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A024F7&text_color=94a3b8&langs_count=8" />
-
-</div>
+<!-- <div align="center"> -->
+<!---->
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cybersnake223&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A024F7&icon_color=A024F7&text_color=94a3b8&rank_icon=github" /> -->
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cybersnake223&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A024F7&text_color=94a3b8&langs_count=8" /> -->
+<!---->
+<!-- </div> -->
 
 <div align="center">
 
