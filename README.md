@@ -27,7 +27,7 @@
 
 ### what i'm up to
 
-- 🔨 Maintaining **[Hypr](https://github.com/Cybersnake223/Hypr)** — my Hyprland dotfiles
+- 🔨 Maintaining **[Hypr](https://github.com/Cybersnake223/Hypr)** — my Hyprland dotfiles (454+ ⭐)
 - 🌱 Learning full-stack web dev + leveling up my scripting
 - 🔭 Always looking for an excuse to rice something new
 
@@ -38,6 +38,30 @@
 - 💬 Hyprland / Arch / dotfiles questions
 - 🐛 Issues and PRs on **[Hypr](https://github.com/Cybersnake223/Hypr)**
 - 🤝 Scripting ideas and collabs
+
+---
+
+### 🔥 Featured Project: [Hypr — Vicious Viper Dotfiles](https://github.com/Cybersnake223/Hypr)
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Cybersnake223/Hypr?style=for-the-badge&logo=github&color=A024F7)](https://github.com/Cybersnake223/Hypr/stargazers)
+[![License](https://img.shields.io/github/license/Cybersnake223/Hypr?style=for-the-badge&color=ec4899)](https://github.com/Cybersnake223/Hypr/blob/main/LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/Cybersnake223/Hypr?style=for-the-badge&color=3ecfcf)](https://github.com/Cybersnake223/Hypr/commits/main)
+[![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=hyprland&logoColor=black)](https://hyprland.org)
+
+A fully event-driven Hyprland desktop environment with **Material You dynamic theming** — wallpapers set the color scheme automatically via Matugen. Built for performance, aesthetics, and a seamless keyboard-driven workflow.
+
+**Stack:** Hyprland · Waybar · Rofi · Foot · Yazi · Neovim · Matugen · Bash
+
+**Highlights:**
+- 🎨 Dynamic theming — change wallpaper, everything follows
+- ⚡ 780MB idle RAM · 0.2% Waybar CPU · 7.3s cold boot
+- 🔄 Event-driven pipeline — wallpaper → Matugen → template engine → live UI sync
+- 📦 Modular installer with dry-run, selective profiles, and automatic backups
+- 🖼️ [Live showcase →](https://cybersnake223.github.io/vicious-viper/)
+
+</div>
 
 ---
 
@@ -86,12 +110,13 @@
 
 ### stats
 
-<!-- <div align="center"> -->
-<!---->
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cybersnake223&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A024F7&icon_color=A024F7&text_color=94a3b8&rank_icon=github" /> -->
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cybersnake223&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A024F7&text_color=94a3b8&langs_count=8" /> -->
-<!---->
-<!-- </div> -->
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cybersnake223&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A024F7&icon_color=A024F7&text_color=94a3b8&rank_icon=percentile" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cybersnake223&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A024F7&text_color=94a3b8&langs_count=8" />
+
+</div>
 
 <div align="center">
 
