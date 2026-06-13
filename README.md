@@ -83,16 +83,6 @@ Uptime:    too long to brag about
 
 <svg width="100%" height="2" viewBox="0 0 100 2" preserveAspectRatio="none"><defs><linearGradient id="g5"><stop offset="0%" stop-color="transparent"/><stop offset="50%" stop-color="#3ECFCF"/><stop offset="100%" stop-color="transparent"/></linearGradient></defs><rect width="100" height="2" fill="url(#g5)" opacity="0.35"/></svg>
 
-### Open Source Contributions
-
-<p align="center">
-  <a href="https://github.com/InioX/matugen-themes"><img src="https://img.shields.io/badge/InioX/matugen--themes-2%20PRs-3ECFCF?style=for-the-badge" /></a>
-  <a href="https://github.com/cosmicwanderer7/mkgit"><img src="https://img.shields.io/badge/cosmicwanderer7/mkgit-7%20PRs-C9A84C?style=for-the-badge" /></a>
-  <a href="https://github.com/pulls?q=is%3Apr+author%3ACybersnake223+is%3Amerged"><img src="https://img.shields.io/badge/View%20All%20Merged%20PRs-7A90B2?style=for-the-badge" /></a>
-</p>
-
-<svg width="100%" height="2" viewBox="0 0 100 2" preserveAspectRatio="none"><defs><linearGradient id="g6"><stop offset="0%" stop-color="transparent"/><stop offset="50%" stop-color="#3ECFCF"/><stop offset="100%" stop-color="transparent"/></linearGradient></defs><rect width="100" height="2" fill="url(#g6)" opacity="0.35"/></svg>
-
 ### `cat ~/metrics`
 
 <p align="center">
