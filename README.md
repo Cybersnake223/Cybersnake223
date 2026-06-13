@@ -21,6 +21,7 @@ Linux Developer & DevOps Engineer · New Delhi, India
 🎓 **CS student** who spends more time ricing than studying
 🤖 **Automation addict** — if I do it twice, I script it
 🦀 **Rust enjoyer** — rewriting everything in Rust (slowly)
+🎮 **When I'm not coding:** Esports · Lo-fi beats · Overpriced coffee
 
 ---
 
@@ -88,6 +89,14 @@ Uptime:    too long to brag about
 
 ---
 
+### `cat ~/trophies`
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Cybersnake223&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=-1" alt="GitHub trophies" />
+</p>
+
+---
+
 ### Open Source Contributions
 
 <p align="center">
@@ -98,20 +107,16 @@ Uptime:    too long to brag about
 
 ---
 
-### `cat ~/stats`
+### `cat ~/metrics`
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cybersnake223&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0c1220&title_color=3ECFCF&icon_color=C9A84C&text_color=7A90B2&rank_icon=percentile" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cybersnake223&layout=compact&theme=tokyonight&hide_border=true&bg_color=0c1220&title_color=3ECFCF&text_color=7A90B2&langs_count=8" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Cybersnake223&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0c1220&title_color=3ECFCF&icon_color=C9A84C&text_color=7A90B2" />
+  <img height="170em" src="https://streak-stats.demolab.com?user=Cybersnake223&theme=tokyonight-duo&hide_border=true&background=0c1220&ring=3ECFCF&fire=C9A84C&currStreakLabel=3ECFCF" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Cybersnake223&theme=tokyonight-duo&hide_border=true&background=0c1220&ring=3ECFCF&fire=C9A84C&currStreakLabel=3ECFCF" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cybersnake223&layout=compact&theme=tokyonight&hide_border=true&bg_color=0c1220&title_color=3ECFCF&text_color=7A90B2&langs_count=6" />
 </p>
-
----
-
-### `cat ~/activity`
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cybersnake223&theme=react-dark&color=3ECFCF&line=3ECFCF&point=C9A84C&hide_border=true&area=true" />
