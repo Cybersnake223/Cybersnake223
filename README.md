@@ -73,7 +73,7 @@ Uptime:    too long to brag about
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,rust,python,js,html,css,docker,mariadb,nginx,neovim,git,linux,arch,hyprland&perline=7" />
+    <img src="https://skillicons.dev/icons?i=bash,rust,python,js,ts,html,css,tailwind,react,nodejs,lua,c,go,mariadb,postgres,docker,nginx,github,neovim,vim,git,linux,arch,hyprland&perline=8" />
   </a>
 </p>
 
