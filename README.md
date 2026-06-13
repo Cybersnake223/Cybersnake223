@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=Cybersnake223&label=views&color=3ECFCF&style=for-the-badge" />
 </p>
 
----
+<svg width="100%" height="2" viewBox="0 0 100 2" preserveAspectRatio="none"><defs><linearGradient id="g0"><stop offset="0%" stop-color="transparent"/><stop offset="50%" stop-color="#3ECFCF"/><stop offset="100%" stop-color="transparent"/></linearGradient></defs><rect width="100" height="2" fill="url(#g0)" opacity="0.35"/></svg>
 
 ### `whoami`
 
@@ -23,9 +23,11 @@ Linux Developer & DevOps Engineer · New Delhi, India
 🦀 **Rust enjoyer** — rewriting everything in Rust (slowly)
 🎮 **When I'm not coding:** Esports · Lo-fi beats · Overpriced coffee
 
----
+<svg width="100%" height="2" viewBox="0 0 100 2" preserveAspectRatio="none"><defs><linearGradient id="g1"><stop offset="0%" stop-color="transparent"/><stop offset="50%" stop-color="#3ECFCF"/><stop offset="100%" stop-color="transparent"/></linearGradient></defs><rect width="100" height="2" fill="url(#g1)" opacity="0.35"/></svg>
 
 ### `systemctl status --user`
+
+<p><svg width="36" height="10" viewBox="0 0 36 10"><circle cx="6" cy="5" r="3" fill="#ff5f57"/><circle cx="18" cy="5" r="3" fill="#febc2e"/><circle cx="30" cy="5" r="3" fill="#28c840"/></svg></p>
 
 ```
 ● currently.service — Current Focus
@@ -38,7 +40,7 @@ Linux Developer & DevOps Engineer · New Delhi, India
      Queued: Rust async · NixOS · Full-stack web
 ```
 
----
+<svg width="100%" height="2" viewBox="0 0 100 2" preserveAspectRatio="none"><defs><linearGradient id="g2"><stop offset="0%" stop-color="transparent"/><stop offset="50%" stop-color="#C9A84C"/><stop offset="100%" stop-color="transparent"/></linearGradient></defs><rect width="100" height="2" fill="url(#g2)" opacity="0.3"/></svg>
 
 ### `cat ~/projects`
 
@@ -49,9 +51,11 @@ Linux Developer & DevOps Engineer · New Delhi, India
   <a href="https://github.com/Cybersnake223/mkgit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Cybersnake223&repo=mkgit&theme=tokyonight&hide_border=true&bg_color=0c1220&title_color=3ECFCF&icon_color=C9A84C&text_color=7A90B2" /></a>
 </p>
 
----
+<svg width="100%" height="2" viewBox="0 0 100 2" preserveAspectRatio="none"><defs><linearGradient id="g3"><stop offset="0%" stop-color="transparent"/><stop offset="50%" stop-color="#3ECFCF"/><stop offset="100%" stop-color="transparent"/></linearGradient></defs><rect width="100" height="2" fill="url(#g3)" opacity="0.35"/></svg>
 
 ### `neofetch`
+
+<p><svg width="36" height="10" viewBox="0 0 36 10"><circle cx="6" cy="5" r="3" fill="#ff5f57"/><circle cx="18" cy="5" r="3" fill="#febc2e"/><circle cx="30" cy="5" r="3" fill="#28c840"/></svg></p>
 
 ```text
 abhishek@cachyos
@@ -67,7 +71,7 @@ Theme:     Dynamic Matugen (wallpaper → palette)
 Uptime:    too long to brag about
 ```
 
----
+<svg width="100%" height="2" viewBox="0 0 100 2" preserveAspectRatio="none"><defs><linearGradient id="g4"><stop offset="0%" stop-color="transparent"/><stop offset="50%" stop-color="#C9A84C"/><stop offset="100%" stop-color="transparent"/></linearGradient></defs><rect width="100" height="2" fill="url(#g4)" opacity="0.3"/></svg>
 
 ### `pacman -Qs stack`
 
@@ -77,7 +81,7 @@ Uptime:    too long to brag about
   </a>
 </p>
 
----
+<svg width="100%" height="2" viewBox="0 0 100 2" preserveAspectRatio="none"><defs><linearGradient id="g5"><stop offset="0%" stop-color="transparent"/><stop offset="50%" stop-color="#3ECFCF"/><stop offset="100%" stop-color="transparent"/></linearGradient></defs><rect width="100" height="2" fill="url(#g5)" opacity="0.35"/></svg>
 
 ### Open Source Contributions
 
@@ -87,7 +91,7 @@ Uptime:    too long to brag about
   <a href="https://github.com/pulls?q=is%3Apr+author%3ACybersnake223+is%3Amerged"><img src="https://img.shields.io/badge/View%20All%20Merged%20PRs-7A90B2?style=for-the-badge" /></a>
 </p>
 
----
+<svg width="100%" height="2" viewBox="0 0 100 2" preserveAspectRatio="none"><defs><linearGradient id="g6"><stop offset="0%" stop-color="transparent"/><stop offset="50%" stop-color="#3ECFCF"/><stop offset="100%" stop-color="transparent"/></linearGradient></defs><rect width="100" height="2" fill="url(#g6)" opacity="0.35"/></svg>
 
 ### `cat ~/metrics`
 
@@ -112,10 +116,11 @@ Uptime:    too long to brag about
   </picture>
 </p>
 
-
----
+<svg width="100%" height="2" viewBox="0 0 100 2" preserveAspectRatio="none"><defs><linearGradient id="g7"><stop offset="0%" stop-color="transparent"/><stop offset="50%" stop-color="#3ECFCF"/><stop offset="100%" stop-color="transparent"/></linearGradient></defs><rect width="100" height="2" fill="url(#g7)" opacity="0.35"/></svg>
 
 ### `exit`
+
+<p><svg width="36" height="10" viewBox="0 0 36 10"><circle cx="6" cy="5" r="3" fill="#ff5f57"/><circle cx="18" cy="5" r="3" fill="#febc2e"/><circle cx="30" cy="5" r="3" fill="#28c840"/></svg></p>
 
 ```text
   thanks for stopping by!
@@ -126,3 +131,5 @@ Uptime:    too long to brag about
   time:        forever ricing...
   status:      ./setup.sh --continue
 ```
+
+<svg width="100%" height="3" viewBox="0 0 100 3" preserveAspectRatio="none"><defs><linearGradient id="g8"><stop offset="0%" stop-color="transparent"/><stop offset="30%" stop-color="#3ECFCF"/><stop offset="50%" stop-color="#C9A84C"/><stop offset="70%" stop-color="#3ECFCF"/><stop offset="100%" stop-color="transparent"/></linearGradient></defs><rect width="100" height="3" fill="url(#g8)" opacity="0.4"/></svg>
