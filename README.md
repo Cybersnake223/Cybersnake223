@@ -89,14 +89,6 @@ Uptime:    too long to brag about
 
 ---
 
-### `cat ~/trophies`
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Cybersnake223&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=-1" alt="GitHub trophies" />
-</p>
-
----
-
 ### Open Source Contributions
 
 <p align="center">
@@ -128,6 +120,10 @@ Uptime:    too long to brag about
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cybersnake223/Cybersnake223/output/snake.svg" />
     <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Cybersnake223/Cybersnake223/output/snake.svg" />
   </picture>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cybersnake223/Cybersnake223/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution calendar" />
 </p>
 
 ---
