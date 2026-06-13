@@ -122,9 +122,6 @@ Uptime:    too long to brag about
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Cybersnake223/Cybersnake223/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution calendar" />
-</p>
 
 ---
 
