@@ -142,7 +142,7 @@ A fully event-driven Hyprland desktop environment with **Material You dynamic th
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Cybersnake223&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=6&title_color=A024F7&icon_color=A024F7&text_color=94a3b8" />
+<img src="https://github-profile-trophy.vercel.app/?username=Cybersnake223&theme=onedark&no-frame&no-bg&margin-w=4&column=6&title-color=A024F7&icon-color=A024F7&text-color=94a3b8" />
 
 </div>
 
