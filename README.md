@@ -135,17 +135,6 @@ A fully event-driven Hyprland desktop environment with **Material You dynamic th
 ### activity
 
 ![Cybersnake's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cybersnake223&theme=react-dark&color=A024F7&line=A024F7&point=ffffff&hide_border=true)
-
----
-
-### trophy case
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Cybersnake223&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=6" />
-
-</div>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cybersnake223/Cybersnake223/output/snake-dark.svg" />
