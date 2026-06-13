@@ -1,15 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=28&center=true&vCenter=true&width=900&height=70&duration=4000&pause=800&color=3ECFCF&lines=abhishek%40cybersnake223%3A~%24+./setup.sh;Booting+Linux+Developer+%2B+DevOps...%F0%9F%90%A7;Booting+Rust+%2B+Bash+%2B+Docker...%E2%9C%94;System+ready.+Open+for+opportunities.;" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&center=true&vCenter=true&width=700&height=50&duration=3500&pause=800&color=3ECFCF&lines=abhishek%40cybersnake223%3A~%24+./setup.sh;Linux+Developer+%26+DevOps+Engineer;Arch+%2B+Hyprland+%2B+Rust+%2B+Docker" />
 </p>
-
-```
-  ____      _                               _        
- / ___|   _| |__   ___ _ __ ___ _ __   __ _| | _____ 
-| |  | | | | '_ \ / _ \ '__/ __| '_ \ / _` | |/ / _ \
-| |__| |_| | |_) |  __/ |  \__ \ | | | (_| |   <  __/
- \____\__, |_.__/ \___|_|  |___/_| |_|\__,_|_|\_\___|
-      |___/                                          
-```
 
 <p align="center">
   <a href="https://cybersnake223.github.io"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-cybersnake223.github.io-3ECFCF?style=for-the-badge&logoColor=white" /></a>
