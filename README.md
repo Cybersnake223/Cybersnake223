@@ -72,19 +72,9 @@ Uptime:    too long to brag about
 ### `pacman -Qs stack`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=hyprland&logoColor=black" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,rust,python,js,html,css,docker,mariadb,nginx,neovim,git,linux,arch,hyprland&perline=7" />
+  </a>
 </p>
 
 ---
@@ -102,12 +92,12 @@ Uptime:    too long to brag about
 ### `cat ~/metrics`
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Cybersnake223&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0c1220&title_color=3ECFCF&icon_color=C9A84C&text_color=7A90B2" />
-  <img height="170em" src="https://streak-stats.demolab.com?user=Cybersnake223&theme=tokyonight-duo&hide_border=true&background=0c1220&ring=3ECFCF&fire=C9A84C&currStreakLabel=3ECFCF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cybersnake223&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0c1220&title_color=3ECFCF&icon_color=C9A84C&text_color=7A90B2" />
+  <img src="https://streak-stats.demolab.com?user=Cybersnake223&theme=tokyonight-duo&hide_border=true&background=0c1220&ring=3ECFCF&fire=C9A84C&currStreakLabel=3ECFCF" />
 </p>
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cybersnake223&layout=compact&theme=tokyonight&hide_border=true&bg_color=0c1220&title_color=3ECFCF&text_color=7A90B2&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cybersnake223&layout=compact&theme=tokyonight&hide_border=true&bg_color=0c1220&title_color=3ECFCF&text_color=7A90B2&langs_count=6" />
 </p>
 
 <p align="center">
