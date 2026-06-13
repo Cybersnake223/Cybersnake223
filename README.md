@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=75&center=true&vCenter=true&width=2000&height=100&duration=3500&pause=1500&lines=Supp+Fellas!+I'm+Cybersnake;Linux+Enjoyer+%F0%9F%90%A7;Arch+%2B+Hyprland+%F0%9F%AA%9F;Rice+or+Die+%F0%9F%8D%9A" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=75&center=true&vCenter=true&width=2000&height=100&duration=3500&pause=1500&lines=Hey,+I'm+Cybersnake;Linux+Enjoyer+%F0%9F%90%A7;Arch+%2B+Hyprland+%F0%9F%AA%9F;Rice+or+Die+%F0%9F%8D%9A" />
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
 
 ---
 
-### whoami
+### about
 
 - 🐧 Linux enthusiast — daily driving **Arch + Hyprland**
 - 🎓 Currently in college, learning to code while staying (mostly) sane 😂
@@ -63,6 +63,15 @@ A fully event-driven Hyprland desktop environment with **Material You dynamic th
 
 </div>
 
+### other projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cybersnake223&repo=matugen&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A024F7&icon_color=A024F7&text_color=94a3b8)](https://github.com/Cybersnake223/matugen)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cybersnake223&repo=mkgit&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A024F7&icon_color=A024F7&text_color=94a3b8)](https://github.com/Cybersnake223/mkgit)
+
+</div>
+
 ---
 
 ### setup
@@ -98,9 +107,6 @@ A fully event-driven Hyprland desktop environment with **Material You dynamic th
 
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=hyprland&logoColor=black)
 
@@ -131,3 +137,23 @@ A fully event-driven Hyprland desktop environment with **Material You dynamic th
 ![Cybersnake's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cybersnake223&theme=react-dark&color=A024F7&line=A024F7&point=ffffff&hide_border=true)
 
 ---
+
+### trophy case
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Cybersnake223&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=6&title_color=A024F7&icon_color=A024F7&text_color=94a3b8" />
+
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cybersnake223/Cybersnake223/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cybersnake223/Cybersnake223/output/snake.svg" />
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Cybersnake223/Cybersnake223/output/snake.svg" />
+  </picture>
+</div>
+
+<p align="center">
+  <b>thanks for stopping by</b>  ·  <a href="https://cybersnake223.github.io">cybersnake223.github.io</a>
+</p>
