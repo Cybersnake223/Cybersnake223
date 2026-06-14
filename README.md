@@ -18,10 +18,9 @@ Linux Developer & DevOps Engineer · New Delhi, India
 ```
 
 🐧 **Daily driver:** Arch Linux / CachyOS · Hyprland · Wayland
-🎓 **CS student** who spends more time ricing than studying
-🤖 **Automation addict** — if I do it twice, I script it
-🦀 **Rust enjoyer** — rewriting everything in Rust (slowly)
-🎮 **When I'm not coding:** Esports · Lo-fi beats · Overpriced coffee
+🎓 **CS student** specializing in Linux systems, automation, and self-hosted infrastructure
+🧰 **Stack:** Bash · Rust · Docker · Metabase · Nginx · Git
+💡 **Philosophy:** Minimal, performant, keyboard-first — from dotfiles to deploy
 
 <svg width="100%" height="2" viewBox="0 0 100 2" preserveAspectRatio="none"><defs><linearGradient id="g1"><stop offset="0%" stop-color="transparent"/><stop offset="50%" stop-color="#3ECFCF"/><stop offset="100%" stop-color="transparent"/></linearGradient></defs><rect width="100" height="2" fill="url(#g1)" opacity="0.35"/></svg>
 
@@ -30,14 +29,14 @@ Linux Developer & DevOps Engineer · New Delhi, India
 <p><svg width="36" height="10" viewBox="0 0 36 10"><circle cx="6" cy="5" r="3" fill="#ff5f57"/><circle cx="18" cy="5" r="3" fill="#febc2e"/><circle cx="30" cy="5" r="3" fill="#28c840"/></svg></p>
 
 ```
-● currently.service — Current Focus
-     Active: active (running)
-       Main: Maintaining Vicious Viper (454+ ⭐)
-      Tasks: Rust · Bash · Docker · Self-hosting · Web
-     Memory: consuming too much caffeine
+● vicious-viper.service — Hyprland Ecosystem
+     Active: active (running) since 2025
+       Main: Dynamic theming, automation, Wayland workflows (454+ ⭐)
+      Tasks: Rust · Bash · Docker · Nginx · Self-hosting
+     Memory: 780MB idle — laptop-optimized
 
 ● learning.service — Learning Queue
-     Queued: Rust async · NixOS · Full-stack web
+     Queued: Rust async · NixOS · Distributed systems · Full-stack
 ```
 
 <svg width="100%" height="2" viewBox="0 0 100 2" preserveAspectRatio="none"><defs><linearGradient id="g2"><stop offset="0%" stop-color="transparent"/><stop offset="50%" stop-color="#C9A84C"/><stop offset="100%" stop-color="transparent"/></linearGradient></defs><rect width="100" height="2" fill="url(#g2)" opacity="0.3"/></svg>
@@ -68,7 +67,7 @@ Terminal:  Foot
 Files:     Yazi · Thunar
 Browser:   Zen Browser
 Theme:     Dynamic Matugen (wallpaper → palette)
-Uptime:    too long to brag about
+Uptime:    stable — daily driver since 2024
 ```
 
 <svg width="100%" height="2" viewBox="0 0 100 2" preserveAspectRatio="none"><defs><linearGradient id="g4"><stop offset="0%" stop-color="transparent"/><stop offset="50%" stop-color="#C9A84C"/><stop offset="100%" stop-color="transparent"/></linearGradient></defs><rect width="100" height="2" fill="url(#g4)" opacity="0.3"/></svg>
@@ -118,8 +117,7 @@ Uptime:    too long to brag about
   portfolio:   https://cybersnake223.github.io
   email:       nemesisjr111@gmail.com
   github:      @Cybersnake223
-  time:        forever ricing...
-  status:      ./setup.sh --continue
+  status:      open to opportunities & collaborations
 ```
 
 <svg width="100%" height="3" viewBox="0 0 100 3" preserveAspectRatio="none"><defs><linearGradient id="g8"><stop offset="0%" stop-color="transparent"/><stop offset="30%" stop-color="#3ECFCF"/><stop offset="50%" stop-color="#C9A84C"/><stop offset="70%" stop-color="#3ECFCF"/><stop offset="100%" stop-color="transparent"/></linearGradient></defs><rect width="100" height="3" fill="url(#g8)" opacity="0.4"/></svg>
