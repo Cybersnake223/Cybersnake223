@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://cybersnake223.github.io"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-cybersnake223.github.io-3ECFCF?style=for-the-badge&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/abhishek-aryan"><img src="https://img.shields.io/badge/LinkedIn-abhishek--aryan-C9A84C?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abhishek-aryan-38b8822b4"><img src="https://img.shields.io/badge/LinkedIn-abhishek--aryan-C9A84C?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:nemesisjr111@gmail.com"><img src="https://img.shields.io/badge/Email-nemesisjr111%40gmail.com-7A90B2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Cybersnake223&label=views&color=3ECFCF&style=for-the-badge" />
 </p>
