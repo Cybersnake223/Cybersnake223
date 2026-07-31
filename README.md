@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Cybersnake223/Cybersnake223/main/profile/banner.svg" alt="abhishek@cybersnake223 — Linux Developer & DevOps Engineer" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&center=true&vCenter=true&width=700&height=50&duration=3500&pause=800&color=3ECFCF&lines=abhishek%40cybersnake223%3A~%24+./setup.sh;Linux+Developer+%26+DevOps+Engineer;Arch+%2B+Hyprland+%2B+Rust+%2B+Docker" alt="abhishek@cybersnake223:~$ ./setup.sh" />
 </p>
 
@@ -9,9 +13,11 @@
   <img src="https://komarev.com/ghpvc/?username=Cybersnake223&label=views&color=3ECFCF&style=for-the-badge" alt="profile views" />
 </p>
 
----
+<p align="center">
+  <code>─────── · ───────</code>
+</p>
 
-### `whoami`
+### 🧑‍💻 `whoami`
 
 ```
 Linux Developer & DevOps Engineer · New Delhi, India
@@ -22,15 +28,15 @@ Linux Developer & DevOps Engineer · New Delhi, India
 🧰 **Stack:** Bash · Rust · Docker · Metabase · Nginx · Git
 💡 **Philosophy:** Minimal, performant, keyboard-first — from dotfiles to deploy
 
----
+<p align="center">
+  <code>─────── · ───────</code>
+</p>
 
-### `systemctl status --user`
+### 🖥️ `systemctl status --user`
 
-```
-● ● ●
-```
+<p align="center">🔴 🟡 🟢</p>
 
-```
+```yaml
 ● vicious-viper.service — Hyprland Ecosystem
      Active: active (running) since 2025
        Main: Dynamic theming, automation, Wayland workflows
@@ -45,15 +51,17 @@ Linux Developer & DevOps Engineer · New Delhi, India
   <img src="https://img.shields.io/github/stars/Cybersnake223/Hypr?style=for-the-badge&logo=github&label=vicious-viper%20%E2%AD%90&color=3ECFCF" alt="Hypr stars" />
 </p>
 
----
+<p align="center">
+  <code>─────── · ───────</code>
+</p>
 
-### `cat ~/projects`
+### 📂 `cat ~/projects`
 
 <p align="center">
-  <a href="https://github.com/Cybersnake223/Hypr"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Cybersnake223&repo=Hypr&theme=tokyonight&hide_border=true&bg_color=0c1220&title_color=3ECFCF&icon_color=C9A84C&text_color=7A90B2" alt="Hypr" /></a>
-  <a href="https://github.com/Cybersnake223/matugen"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Cybersnake223&repo=matugen&theme=tokyonight&hide_border=true&bg_color=0c1220&title_color=3ECFCF&icon_color=C9A84C&text_color=7A90B2" alt="matugen" /></a>
-  <a href="https://github.com/Cybersnake223/cybersnake223.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Cybersnake223&repo=cybersnake223.github.io&theme=tokyonight&hide_border=true&bg_color=0c1220&title_color=3ECFCF&icon_color=C9A84C&text_color=7A90B2" alt="cybersnake223.github.io" /></a>
-  <a href="https://github.com/Cybersnake223/mkgit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Cybersnake223&repo=mkgit&theme=tokyonight&hide_border=true&bg_color=0c1220&title_color=3ECFCF&icon_color=C9A84C&text_color=7A90B2" alt="mkgit" /></a>
+  <a href="https://github.com/Cybersnake223/Hypr"><img src="https://github-readme-stats.shion.dev/api/pin/?username=Cybersnake223&repo=Hypr&theme=tokyonight&hide_border=true&bg_color=0c1220&title_color=3ECFCF&icon_color=C9A84C&text_color=7A90B2" alt="Hypr" /></a>
+  <a href="https://github.com/Cybersnake223/matugen"><img src="https://github-readme-stats.shion.dev/api/pin/?username=Cybersnake223&repo=matugen&theme=tokyonight&hide_border=true&bg_color=0c1220&title_color=3ECFCF&icon_color=C9A84C&text_color=7A90B2" alt="matugen" /></a>
+  <a href="https://github.com/Cybersnake223/cybersnake223.github.io"><img src="https://github-readme-stats.shion.dev/api/pin/?username=Cybersnake223&repo=cybersnake223.github.io&theme=tokyonight&hide_border=true&bg_color=0c1220&title_color=3ECFCF&icon_color=C9A84C&text_color=7A90B2" alt="cybersnake223.github.io" /></a>
+  <a href="https://github.com/Cybersnake223/mkgit"><img src="https://github-readme-stats.shion.dev/api/pin/?username=Cybersnake223&repo=mkgit&theme=tokyonight&hide_border=true&bg_color=0c1220&title_color=3ECFCF&icon_color=C9A84C&text_color=7A90B2" alt="mkgit" /></a>
 </p>
 
 - **[Hypr](https://github.com/Cybersnake223/Hypr)** — Vicious Viper dotfiles · daily driver
@@ -61,15 +69,15 @@ Linux Developer & DevOps Engineer · New Delhi, India
 - **[cybersnake223.github.io](https://github.com/Cybersnake223/cybersnake223.github.io)** — personal portfolio
 - **[mkgit](https://github.com/Cybersnake223/mkgit)** — GitHub repo bootstrap CLI *(fork of [cosmicwanderer7/mkgit](https://github.com/cosmicwanderer7/mkgit))*
 
----
+<p align="center">
+  <code>─────── · ───────</code>
+</p>
 
-### `neofetch`
+### 💻 `neofetch`
 
-```
-● ● ●
-```
+<p align="center">🔴 🟡 🟢</p>
 
-```text
+```yaml
 abhishek@cachyos
 ----------------
 OS:        Arch Linux / CachyOS x86_64
@@ -83,9 +91,11 @@ Theme:     Dynamic Matugen (wallpaper → palette)
 Uptime:    stable — daily driver since 2024
 ```
 
----
+<p align="center">
+  <code>─────── · ───────</code>
+</p>
 
-### `pacman -Qs stack`
+### 🧰 `pacman -Qs stack`
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -93,17 +103,19 @@ Uptime:    stable — daily driver since 2024
   </a>
 </p>
 
----
+<p align="center">
+  <code>─────── · ───────</code>
+</p>
 
-### `cat ~/metrics`
+### 📊 `cat ~/metrics`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cybersnake223&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0c1220&title_color=3ECFCF&icon_color=C9A84C&text_color=7A90B2" alt="GitHub stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Cybersnake223&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0c1220&title_color=3ECFCF&icon_color=C9A84C&text_color=7A90B2" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=Cybersnake223&theme=tokyonight-duo&hide_border=true&background=0c1220&ring=3ECFCF&fire=C9A84C&currStreakLabel=3ECFCF" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cybersnake223&layout=compact&theme=tokyonight&hide_border=true&bg_color=0c1220&title_color=3ECFCF&text_color=7A90B2&langs_count=6&exclude_repo=matugen,mkgit" alt="Top languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Cybersnake223&layout=compact&hide_title=true&theme=tokyonight&hide_border=true&bg_color=0c1220&title_color=3ECFCF&text_color=7A90B2&langs_count=6&exclude_repo=matugen,mkgit" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -118,13 +130,13 @@ Uptime:    stable — daily driver since 2024
   </picture>
 </p>
 
----
+<p align="center">
+  <code>─────── · ───────</code>
+</p>
 
-### `exit`
+### 👋 `exit`
 
-```
-● ● ●
-```
+<p align="center">🔴 🟡 🟢</p>
 
 ```text
   thanks for stopping by!
