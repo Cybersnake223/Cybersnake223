@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&center=true&vCenter=true&width=700&height=50&duration=3500&pause=800&color=3ECFCF&lines=abhishek%40cybersnake223%3A~%24+./setup.sh;Linux+Developer+%26+DevOps+Engineer;Arch+%2B+Hyprland+%2B+Rust+%2B+Docker" alt="abhishek@cybersnake223:~$ ./setup.sh" />
-</p>
-
-<p align="center">
   <a href="https://cybersnake223.github.io"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-cybersnake223.github.io-3ECFCF?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/abhishek-aryan-38b8822b4"><img src="https://img.shields.io/badge/LinkedIn-abhishek--aryan-C9A84C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:nemesisjr111@gmail.com"><img src="https://img.shields.io/badge/Email-nemesisjr111%40gmail.com-7A90B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
