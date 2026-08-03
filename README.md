@@ -60,11 +60,6 @@ Linux Developer & DevOps Engineer · New Delhi, India
   <a href="https://github.com/Cybersnake223/mkgit"><img src="https://github-readme-stats.shion.dev/api/pin/?username=Cybersnake223&repo=mkgit&theme=tokyonight&hide_border=true&bg_color=0c1220&title_color=3ECFCF&icon_color=C9A84C&text_color=7A90B2" alt="mkgit" /></a>
 </p>
 
-- **[Hypr](https://github.com/Cybersnake223/Hypr)** — Vicious Viper dotfiles · daily driver
-- **[matugen](https://github.com/Cybersnake223/matugen)** — material-you color generation
-- **[cybersnake223.github.io](https://github.com/Cybersnake223/cybersnake223.github.io)** — personal portfolio
-- **[mkgit](https://github.com/Cybersnake223/mkgit)** — GitHub repo bootstrap CLI
-
 <p align="center">
   <code>─────── · ───────</code>
 </p>
