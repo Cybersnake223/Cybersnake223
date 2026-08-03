@@ -61,9 +61,9 @@ Linux Developer & DevOps Engineer · New Delhi, India
 </p>
 
 - **[Hypr](https://github.com/Cybersnake223/Hypr)** — Vicious Viper dotfiles · daily driver
-- **[matugen](https://github.com/Cybersnake223/matugen)** — material-you color generation *(fork of [InioX/matugen](https://github.com/InioX/matugen))*
+- **[matugen](https://github.com/Cybersnake223/matugen)** — material-you color generation
 - **[cybersnake223.github.io](https://github.com/Cybersnake223/cybersnake223.github.io)** — personal portfolio
-- **[mkgit](https://github.com/Cybersnake223/mkgit)** — GitHub repo bootstrap CLI *(fork of [cosmicwanderer7/mkgit](https://github.com/cosmicwanderer7/mkgit))*
+- **[mkgit](https://github.com/Cybersnake223/mkgit)** — GitHub repo bootstrap CLI
 
 <p align="center">
   <code>─────── · ───────</code>
